@@ -4,11 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Please see the full list of her publications in <a href="https://scholar.google.com/citations?user=Klrd5CQAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
