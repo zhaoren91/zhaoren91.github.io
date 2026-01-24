@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhao Ren"
   pronouns         : # example: "she/her"  
   bio              : "Affective Computing | Digital Health | Speech and Audio AI"
