@@ -57,12 +57,12 @@ WS 2017/18:
 * Guanqiao Sui, "Skeptical Learning for Sound Classification", Master thesis, Leibniz University Hannover, 2022
 * Mohammad Mehdi Zahed, “Interpretable machine learning for sound classification”, Master thesis, Leibniz University Hannover, 2022
 
-**This thesis published in the IJCNN conference: Z. Ren, T. T. N. Nguyen, M. M. Zahed, and W. Nejdl, “Selfexplaining neural networks for respiratory sound classification with scale-free interpretability,” in Proc. IJCNN, (Gold Coast, Australia), 2023.**
+**This work was published in IJCNN: Z. Ren, T. T. N. Nguyen, M. M. Zahed, and W. Nejdl, “Selfexplaining neural networks for respiratory sound classification with scale-free interpretability,” in Proc. IJCNN, (Gold Coast, Australia), 2023.**
 
 * Quang Phu Quang, “Multitask learning with attention-based task relationship modelling for COVID-19 cough sound analysis”, Master thesis, Leibniz University Hannover, 2022
 * Fabio Hellmann, “Deformable faster-RCNN for lesion detection in CT images”, Master thesis, University of Augsburg, 07/2020-11/2020.
 
-**This thesis published in the EMBC conference: F. Hellmann, Z. Ren, E. Andre, and B. Schuller, “Deformable dilated faster R-CNN for universal lesion detection in CT images,” in Proc. EMBC, (Virtual), pp. 2896–2902, 2021.**
+**This work was published in EMBC: F. Hellmann, Z. Ren, E. Andre, and B. Schuller, “Deformable dilated faster R-CNN for universal lesion detection in CT images,” in Proc. EMBC, (Virtual), pp. 2896–2902, 2021.**
 
 * Dennis Zürn, “Investigation of explainable AI techniques for computational paralinguistics”, Master thesis, University of Augsburg, 08/2020-07/2021.
 * Yang Tian, “Adversarial attacks: A threat to deep speech-based end-to-end models for healthcare”, Master thesis, University of Augsburg, 10/2020-07/2021.
