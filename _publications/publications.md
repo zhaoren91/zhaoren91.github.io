@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please see the full list of her publications <a href="https://www.overleaf.com/read/ntwkbkrzrgxx#8e1eb7" target="_blank">here</a>.
+Please see the full list of her publications <a href="https://github.com/zhaoren91/zhaoren91.github.io/blob/master/_publications/Publications_by_Zhao_Ren_202601.pdf" type="application/pdf">here</a>.
 
 # Selected Publications
 ## Book Chapters and Guest Editorials
