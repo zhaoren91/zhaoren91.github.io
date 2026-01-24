@@ -15,7 +15,7 @@ main:
     url: /publications/    
 
   - title: "Services"
-    url: /activity/
+    url: /service/
 
   - title: "Teaching"
     url: /teaching/    
