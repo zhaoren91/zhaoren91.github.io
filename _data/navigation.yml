@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Activities"
+  - title: "Services"
     url: /activity/
 
   - title: "Teaching"
@@ -23,8 +23,8 @@ main:
   - title: "Projects"
     url: /project/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
