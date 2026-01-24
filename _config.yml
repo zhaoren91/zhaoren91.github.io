@@ -27,10 +27,10 @@ author:
   name             : "Zhao Ren"
   pronouns         : # example: "she/her"  
   bio              : "Speech and Audio AI, Affective Computing"
-  location         : "Earth"
+  location         : "Germany"
   employer         : "University of Bremen"
-  uri              : # URL
-  email            : "none@example.org" 
+  # uri              : # URL
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
