@@ -32,16 +32,13 @@ Her research interests mainly lie in affective computing, computational paraling
 * *Natural Human Expression*: Synthesizing voices that are not just accurate, but also carry the natural paralinguistic and emotional richness of human speech.
 
 
-(blank line)
-(blank line)
-(blank line)
-(blank line)
+---
 
 
-Life is not always smooth sailing. But our greatness lies not in never falling, but in loving the mountain we choose to climb.
-
-*"Meine Formel für die Größe am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen, noch weniger verhehlen - aller Idealismus ist Verlogenheit vor dem Nothwendigen -, sondern es lieben."
-
-English: My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it - all idealism is mendaciousness in the face of what is necessary - but love it.*
-
-- Friedrich Nietzsche, Ecce homo: Wie man wird, was man ist, §10
+> Life is not always smooth sailing. But our greatness lies not in never falling, but in loving the mountain we choose to climb.
+> 
+> *Meine Formel für die Größe am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen, noch weniger verhehlen - aller Idealismus ist Verlogenheit vor dem Nothwendigen -, sondern es lieben.*
+> 
+> *English Translation: My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it - all idealism is mendaciousness in the face of what is necessary - but love it.*
+> 
+> \- Friedrich Nietzsche, *Ecce homo: Wie man wird, was man ist*, §10
