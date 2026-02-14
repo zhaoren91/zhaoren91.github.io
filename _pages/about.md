@@ -12,3 +12,23 @@ redirect_from:
 Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 70+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3k+ citations (h-index 27). She serves as a guest editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an associate editor of Frontiers in Digital Health, and chaired sessions in ICASSP and EMBC. 
 
 
+
+# Research Topics
+
+![caption](../images/pipeline.png)
+
+
+## Listening (Advanced Sensing & Health Monitoring)
+* Physiological Health: Using advanced signal processing to decode sounds from the cardiovascular and pulmonary systems for early diagnostic screening.
+* Mental and Cognitive Health: Analyzing speech to assess emotional states, cognitive disorders, and physiological markers of health, as well as hate speech.
+* Intelligent Systems: Acoustic monitoring for industrial safety and robust environmental sensing.
+
+## Understanding (Trustworthiness)
+* Transparent Decision-Making: Moving from "black-box" models to explainable AI that provides clear reasoning for its predictions.
+* Reliability: Ensuring that AI systems remain robust against interference and consistent across different users and environments.
+* Privacy: Pioneering methodologies that protect sensitive medical data and respect individual privacy rights in digital health interactions.
+
+## Communication (Expression & Empowerment)
+* Silent Speech Interfaces: Developing alternative communication channels that translate silent muscle signals into high-quality, intelligible speech.
+* Natural Human Expression: Synthesizing voices that are not just accurate, but also carry the natural paralinguistic and emotional richness of human speech.
+* Human-Centred Empowerment: Bridging the gap between biosignals and articulation to return a voice to those affected by conditions like laryngectomy.

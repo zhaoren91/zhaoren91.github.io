@@ -12,7 +12,7 @@ author_profile: false
 * SS 2023-2025: Lecture: Fundamentals of Machine Learning (Bachelor)
 
 ## Leibniz University Hannover
-SS 2022: Lecture: Artificial Intelligence for Healthcare (Master)
+* SS 2022: Lecture: Artificial Intelligence for Healthcare (Master)
 
 ## University of Augsburg
 WS 2020/21: 
