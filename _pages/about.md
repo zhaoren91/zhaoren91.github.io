@@ -27,7 +27,7 @@ Her research interests mainly lie in affective computing, computational paraling
 * *Reliability*: Ensuring that AI systems remain robust against interference and consistent across different users and environments.
 * *Privacy*: Pioneering methodologies that protect sensitive medical data and respect individual privacy rights in digital health interactions.
 
-## Communication (Human-Centred Empowerment)
+## Empowering (Human Communication)
 * *Silent Speech Interfaces*: Developing alternative communication channels that translate silent muscle signals into high-quality, intelligible speech.
 * *Natural Human Expression*: Synthesizing voices that are not just accurate, but also carry the natural paralinguistic and emotional richness of human speech.
 
