@@ -15,7 +15,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 # Research Topics
 
-<img src="../images/pipeline1.png" alt="caption" width=80%>
+![caption](../images/pipeline1.png)
 
 ## Listening (Advanced Sensing & Health Monitoring)
 * *Physiological Health*: Using advanced signal processing to decode sounds from the cardiovascular and pulmonary systems for early diagnostic screening.
