@@ -35,6 +35,8 @@ Her research interests mainly lie in affective computing, computational paraling
 ---
 ---
 
+## My Philosophy
+
 Life is not always smooth sailing. Our greatness lies not in never falling, but in loving the mountain we choose to climb.
 > 
 > "Meine Formel für die Größe am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen, noch weniger verhehlen - aller Idealismus ist Verlogenheit vor dem Nothwendigen -, sondern es lieben."
