@@ -34,7 +34,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 ---
 
-**My Philosophy**
+### My Philosophy
 
 Life is not always smooth sailing. Our greatness lies not in never falling, but in loving the mountain we choose to climb.
 > 
