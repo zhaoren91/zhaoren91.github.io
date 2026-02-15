@@ -40,6 +40,6 @@ In research, as in life, the path is not always smooth sailing. But our greatest
 > 
 > "My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it - all idealism is mendaciousness in the face of what is necessary - but love it."
 > 
-> German: "Meine Formel für die Größe am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen, noch weniger verhehlen - aller Idealismus ist Verlogenheit vor dem Nothwendigen -, sondern es lieben."
+> Original German: "Meine Formel für die Größe am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen, noch weniger verhehlen - aller Idealismus ist Verlogenheit vor dem Nothwendigen -, sondern es lieben."
 > 
 > --- Friedrich Nietzsche, Ecce homo: Wie man wird, was man ist, §10
