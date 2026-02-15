@@ -41,4 +41,4 @@ Life is not always smooth sailing. Our greatness lies not in never falling, but 
 > 
 > English Translation: My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it - all idealism is mendaciousness in the face of what is necessary - but love it.
 > 
--- Friedrich Nietzsche, Ecce homo: Wie man wird, was man ist, §10
+--- Friedrich Nietzsche, Ecce homo: Wie man wird, was man ist, §10
