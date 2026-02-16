@@ -17,15 +17,15 @@ Her research interests mainly lie in affective computing, computational paraling
 
 ![caption](../images/pipeline1.png)
 
-## Listening (Advanced Sensing & Health Monitoring)
-* *Physiological Health*: Using advanced signal processing to decode sounds from the cardiovascular and pulmonary systems for early diagnostic screening.
+## Sensing (Health Monitoring)
 * *Mental and Cognitive Health*: Analyzing speech to assess emotional states, cognitive disorders, and physiological markers of health, as well as hate speech.
+* *Physiological Health*: Using advanced signal processing to decode sounds from the cardiovascular and pulmonary systems for early diagnostic screening.
 * *Intelligent Systems*: Acoustic monitoring for industrial safety and robust environmental sensing.
 
 ## Understanding (Trustworthiness)
-* *Transparent Decision-Making*: Moving from "black-box" models to explainable AI that provides clear reasoning for its predictions.
-* *Reliability*: Ensuring that AI systems remain robust against interference and consistent across different users and environments.
-* *Privacy*: Pioneering methodologies that protect sensitive medical data and respect individual privacy rights in digital health interactions.
+* *Reliability*: Ensuring that emotional AI systems remain robust against interference and consistent across different users and environments.
+* *Privacy*: Pioneering methodologies that protect sensitive emotional speech data and respect individual privacy rights in digital health interactions.
+* *Transparency*: Moving from "black-box" models to explainable AI that provides clear reasoning for its predictions.
 
 ## Empowering (Human Communication)
 * *Silent Speech Interfaces*: Developing alternative communication channels that translate silent muscle signals into high-quality, intelligible speech.
