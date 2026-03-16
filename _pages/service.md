@@ -9,7 +9,7 @@ author_profile: true
 
 * "Trustworthy AI in human-centred computer audition", invited talk at University of Duisburg-Essen, Germany, 01.2026
 
-* "From Voice to Mind: Speech Emotion Recognition and Silent Speech Interfaces", University of Macau, Macau, 11.2025
+* "From Voice to Mind: Speech Emotion Recognition and Silent Speech Interfaces", University of Macau, Macau, China, 11.2025
 
 * "Toward trustworthy AI in human-centric computer audition", invited talk at University of Ulm, Germany, 06.2025
 
