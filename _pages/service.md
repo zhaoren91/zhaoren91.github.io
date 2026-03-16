@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 # Invited Talks
+
+* "Trustworthy AI in human-centred computer audition", invited talk at University of Duisburg-Essen, 01.2026
+
+* "Toward trustworthy AI in human-centric computer audition", invited talk at University of Ulm, 06.2025
+
+* "Explainable AI meets acoustics: Advancing non-invasive solutions for personalized healthcare", invited talk at Leibniz University Hannover, 01.2025 
+
 * “The opportunities and challenges of speech technology in IoT”, invited talk at Global Audio Summit, virtual, 07.2024
 
 * "Learning fast and effective speech emotion recognition models with self-distillation", invited research talk at L3S Research Center, Leibniz Universität Hannover, Germany, virtual, 05.2023.
