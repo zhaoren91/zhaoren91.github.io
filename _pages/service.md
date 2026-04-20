@@ -47,12 +47,12 @@ author_profile: true
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Organisation
-* Co-organisation of The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge (EI-MiGA) held at the IJCAI-ECAI, Bremen, Germany, 2026.
-* Co-organisation of Workshop on Multi-Biological Sensing Data for Speech and  Language Deterioration Prediction (SpandLDeteriorate) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
-* Co-organisation of the 2nd Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
-* Co-organisation of the 1st Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
-* Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
-* Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021.
+* Organiser of <a href="https://ei-miga.github.io" target="_blank">EI-MiGA: The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge</a>, held at the IJCAI-ECAI, Bremen, Germany, 2026.
+* Organiser of <a href="https://sites.google.com/view/spandldeteriorate" target="_blank">Workshop on Multi-Biological Sensing Data for Speech and  Language Deterioration Prediction (SpandLDeteriorate)</a>, held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Organiser of <a href="https://sites.google.com/view/m3oriental" target="_blank">The 2nd Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental)</a>, held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Organiser of <a href="https://sites.google.com/view/m3oriental2023" target="_blank">The 1st Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental)</a>, held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
+* Organiser of <a href="https://leibniz-ai-lab.de/etn/summer-school-ai-for-bio-medicine/" target="_blank">Summer School: AI for Bio-Medicine</a>, in Leibniz AI Lab, 2022.
+* Organiser of <a href="https://www.youtube.com/watch?v=9HzUuAvAV0c&list=PL0qxYF7fEyGEY5_Jj4rox0M8q2J7LFS_l" target="_blank">TAPAS (Training Network on Automatic Processing of PAthological Speech) Training Event 6: Industry targeted event with networking</a>, 2021.
 
 # Program Committees
 * Program committee member of the Australasian Database Conference, 2024.
