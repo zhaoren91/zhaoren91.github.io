@@ -34,6 +34,8 @@ author_profile: true
 
 * Guest editor for special issue of <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, in Cyborg and Bionic Systems. 
 
+* Editor for research topic of <a href="https://www.frontiersin.org/research-topics/73731/advancing-personalized-healthcare-through-ai-and-computer-audition-technologies" target="_blank">Advancing Personalized Healthcare Through AI and Computer Audition Technologies</a>, Frontiers in Computer Science, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Digital Health, Frontiers in Psychiatry
+
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/56536/advances-in-computer-audition-for-mental-health-applications" target="_blank">Advances in Computer Audition for Mental Health Applications</a>, co-organised in Frontiers in Digital Health, Frontiers in Psychiatry.
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/54868/intelligent-audition-technologies-for-personalized-healthcare" target="_blank">Intelligent Audition Technologies for Personalized Healthcare</a>, co-organised in Frontiers in Computer Science, Frontiers in Big Data, and Frontiers in Artificial Intelligence.
@@ -43,6 +45,14 @@ author_profile: true
 # Chairs
 * Session chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
 * Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
+
+# Organisation
+* Co-organisation of The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge (EI-MiGA) held at the IJCAI-ECAI, Bremen, Germany, 2026.
+* Co-organisation of Workshop on Multi-Biological Sensing Data for Speech and  Language Deterioration Prediction (SpandLDeteriorate) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Co-organisation of the 2nd Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
+* Co-organisation of the 1st Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
+* Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
+* Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021.
 
 # Program Committees
 * Program committee member of the Australasian Database Conference, 2024.
@@ -60,13 +70,6 @@ author_profile: true
 * Program committee member of the 24th ACM International Conference on Multimodal Interaction (ICMI), Bangalore, Indian, 11.2022.
 * Program committee member of the 23rd ACM International Conference on Multimodal Interaction (ICMI), Montreal, Canada, 10.2021.
 * Program committee member of the 9th Audio/Visual Emotion Challenge and Workshop@ACM Multimedia (AVEC), Nice, France, 10.2019.
-
-# Organisation
-* Co-organisation of Workshop on Multi-Biological Sensing Data for Speech and  Language Deterioration Prediction (SpandLDeteriorate) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
-* Co-organisation of the 2nd Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Auckland, New Zealand, 2024.
-* Co-organisation of the 1st Workshop of Multimodal, Multilingual and Multitask Modeling Technologies for Oriental Languages (M3Oriental) held at the ACM Multimedia Asia, Tainan, Taiwan, 2023.
-* Co-organisation of Summer School: AI for Bio-Medicine in Leibniz AI Lab, 2022.
-* Coordination of TAPAS Training Event 6: Industry targeted event with networking, 2021.
 
 
 # Reviews
@@ -100,9 +103,17 @@ author_profile: true
 * ACII Affective Vocal Bursts Workshop & Competition
 * IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
 
+# Awards
+* 2026: Best Presentation Award - Global Youth AI Forum, CUHK-SZ
+* 2023: Nomination for AI Newcomers, KI Camp (top 6 in computer science)
+* 2022: Best paper award - RiTA conference
+* 2013: Excellent bachelor thesis (top 8%)
+
+
 # Impressions
+* “<a href="https://www.l3s.de/magazine/binaire-articles/helping-doctors-make-decisions/" target="_blank">Helping doctors make decisions</a>”, in L3S Binaire Magazine, 01.2023.
 * “<a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in phys.org, 10.04.2018.
-* “<a href="https://www.eurekalert.org/multimedia/pub/167512.php" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in EurekAlert!, AAAS, USA, 09.04.2018.
+
 
 
 
