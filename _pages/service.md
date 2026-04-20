@@ -40,7 +40,7 @@ author_profile: true
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/54868/intelligent-audition-technologies-for-personalized-healthcare" target="_blank">Intelligent Audition Technologies for Personalized Healthcare</a>, co-organised in Frontiers in Computer Science, Frontiers in Big Data, and Frontiers in Artificial Intelligence.
 
-* Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">"Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things"</a> on the IEEE Journal of Biomedical and Health Informatics.
+* Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Chairs
 * Session chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
@@ -111,8 +111,8 @@ author_profile: true
 
 
 # Impressions
-* “<a href="https://www.l3s.de/magazine/binaire-articles/helping-doctors-make-decisions/" target="_blank">Helping doctors make decisions</a>”, in L3S Binaire Magazine, 01.2023.
-* “<a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>”, in phys.org, 10.04.2018.
+* <a href="https://www.l3s.de/magazine/binaire-articles/helping-doctors-make-decisions/" target="_blank">Helping doctors make decisions</a>, in L3S Binaire Magazine, 01.2023.
+* <a href="https://phys.org/news/2018-04-comprehensive-acoustic-scene-analysis-method.html" target="_blank">Researchers develop more comprehensive acoustic scene analysis method</a>, in phys.org, 10.04.2018.
 
 
 
