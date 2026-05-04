@@ -32,9 +32,12 @@ author_profile: true
 * "Deep learning in audio signal classification", invited research talk at audEERING GmbH, Germany, 01.10.2020.
 
 # Editors
+
+* Associate Editor of Frontiers in Digital Health.
+
 * Guest Associate Editor of Frontiers in Psychiatry.
 
-* Guest editor for special issue of <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, in Cyborg and Bionic Systems. 
+* Guest Editor for special issue of <a href="hhttps://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, in Cyborg and Bionic Systems. 
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/73731/advancing-personalized-healthcare-through-ai-and-computer-audition-technologies" target="_blank">Advancing Personalized Healthcare Through AI and Computer Audition Technologies</a>, Frontiers in Computer Science, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Digital Health, Frontiers in Psychiatry
 
@@ -42,7 +45,7 @@ author_profile: true
 
 * Editor for research topic of <a href="https://www.frontiersin.org/research-topics/54868/intelligent-audition-technologies-for-personalized-healthcare" target="_blank">Intelligent Audition Technologies for Personalized Healthcare</a>, co-organised in Frontiers in Computer Science, Frontiers in Big Data, and Frontiers in Artificial Intelligence.
 
-* Guest editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things</a> on the IEEE Journal of Biomedical and Health Informatics.
+* Guest Editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Chairs
 * Session chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
