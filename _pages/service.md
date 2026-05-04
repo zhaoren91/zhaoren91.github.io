@@ -7,9 +7,11 @@ author_profile: true
 
 # Invited Talks
 
+* "Toward trustworthy AI in digital health: Sensing, understanding, and empowerment", invited talk at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany, 04.2026
+
 * "Trustworthy AI in human-centred computer audition", invited talk at University of Duisburg-Essen, Germany, 01.2026
 
-* "From voice to mind: Speech emotion recognition and silent speech interfaces", University of Macau, Macau, China, 11.2025
+* "From voice to mind: Speech emotion recognition and silent speech interfaces", invited talk at University of Macau, Macau, China, 11.2025
 
 * "Toward trustworthy AI in human-centric computer audition", invited talk at University of Ulm, Germany, 06.2025
 

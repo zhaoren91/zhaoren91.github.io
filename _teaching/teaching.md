@@ -44,7 +44,7 @@ WS 2017/18:
 * Mira Richts, “Delirium detection from speech”, University of Bremen, Co-supervision with Prof. Tanja Schultz, since 2025
 * Rathi Adarshi Rammohan, “Hate speech detection”, University of Bremen, Co-supervision with Prof. Tanja Schultz, 2023-2027
 * Kevin Scheck, “Electromyography to speech conversion”, University of Bremen, Co-supervision with Prof. Tanja Schultz, 2023-2026
-* Peter , “Industrial sound analysis”, Leibniz University Hannover, Co-supervision with Prof. Wolfgang Nejdl, 2022-2026
+* Peter Wißbrock, “Industrial sound analysis”, Leibniz University Hannover, Co-supervision with Prof. Wolfgang Nejdl, 2022-2026
 * Yi Chang, “Computer audition for respiratory and mental health”, Imperial College London, Co-supervision with Prof. Björn Schuller, 2020-2025
 
 ## Bachelor / Master supervision
