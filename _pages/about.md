@@ -12,7 +12,7 @@ redirect_from:
 Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 70+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 30). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
 
-# Highlights/News
+# Highlights
 * 05/2026: Nominated and Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in Bremen, Germany (August 15–21). This honor recognizes highly promising researchers in the AI community.
 * 03/2026: **Best Presentation Award**, Free Rein · Global Youth AI Forum, CUHK-Shenzhen. Awarded for excellence in research communication among ~100 invited young AI scholars from global top-tier institutions. Recognized for the presentation: AI in Digital Health: From Sensing to Personalised Empowerment.
 * 2026: **Multimodal Hate Speech Detection**. New research accepted at LREC 2026.
