@@ -13,7 +13,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 
 # Highlights/News
-* 04/2026: Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in Bremen, Germany (August 15–21). This honor recognizes highly promising researchers in the AI community.
+* 2026: Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in Bremen, Germany (August 15–21). This honor recognizes highly promising researchers in the AI community.
 * 2026: **Multimodal Hate Speech Detection**. New research accepted at LREC 2026.
 * 2025: **High-Impact Journal Publications in AI Safety and Health**. New papers in IEEE Transactions on Affective Computing (TAFFC) on sparse adversarial attacks (STAA-Net), IEEE/ACM TASLP on depression detection, and ACM TIST on machine unlearning.
 * 2025: **INTERSPEECH & EMBC**. Contributions to Silent Speech Interfaces and Emotion Recognition accepted at leading speech and bio-engineering venues.
