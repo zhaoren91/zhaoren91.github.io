@@ -11,6 +11,16 @@ redirect_from:
 
 Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 70+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 30). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
+
+# Highlights/News
+* 04/2026: Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in Bremen, Germany (August 15–21). This honor recognizes highly promising researchers in the AI community.
+* 2026: **Multimodal Hate Speech Detection**. New research accepted at LREC 2026.
+* 2025: **High-Impact Journal Publications in AI Safety and Health**. New papers in IEEE Transactions on Affective Computing (TAFFC) on sparse adversarial attacks (STAA-Net), IEEE/ACM TASLP on depression detection, and ACM TIST on machine unlearning.
+* 2025: **INTERSPEECH & EMBC**. Contributions to Silent Speech Interfaces and Emotion Recognition accepted at leading speech and bio-engineering venues.
+* 2024: **State-of-the-Art Survey**. My comprehensive review of Heart Sound Analysis was published in IEEE Computational Intelligence Magazine.
+* 2023–2024: Continued publications in leading AI venues including ICASSP, IJCNN, and EUSIPCO.
+
+
 # Professional Activities (Ongoing)
 * Workshop: <a href="https://ei-miga.github.io" target="_blank">EI-MiGA: The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge</a>, IJCAI-ECAI, Bremen, Germany, 2026
 * Special Issue: <a href="https://www.frontiersin.org/research-topics/73731/advancing-personalized-healthcare-through-ai-and-computer-audition-technologies" target="_blank">Advancing Personalized Healthcare Through AI and Computer Audition Technologies</a>, Frontiers in Computer Science, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Digital Health, Frontiers in Psychiatry

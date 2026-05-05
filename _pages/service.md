@@ -109,10 +109,11 @@ author_profile: true
 * IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
 
 # Awards
-* 2026: Best Presentation Award - Global Youth AI Forum, CUHK-SZ
-* 2023: Nomination for AI Newcomers, KI Camp (top 6 in computer science)
-* 2022: Best paper award - RiTA conference
-* 2013: Excellent bachelor thesis (top 8%)
+* 2026: *IJCAI Early Career Spotlight*, International Joint Conference on Artificial Intelligence (IJCAI 2026)
+* 2026: *Best Presentation Award*, Global Youth AI Forum, CUHK-Shenzhen
+* 2023: *Nominee, AI Newcomers*, KI Camp organised by German Federal Ministry of Education and Research (BMBF) and the German Informatics Society (GI), Germany (Top 6 in computer science)
+* 2022: *Best Paper Award*, RiTA conference
+* 2013: *Excellent Bachelor Thesis* (Top 8%)
 
 
 # Impressions
