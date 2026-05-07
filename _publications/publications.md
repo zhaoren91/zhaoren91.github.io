@@ -11,17 +11,31 @@ Please see the full list of her publications <a href="https://zhaoren91.github.i
 # Selected Publications
 
 ## Trustworthy & Privacy-Aware AI for Speech and Audio
+
+<p align="center">
+  <img src="/images/privacy.png" width="650">
+</p>
+
+Research on adversarial robustness, machine unlearning, and trustworthy speech emotion recognition systems.
+
+
 * Y. Chang, Z. Ren, Z. Zhang, X. Jing, K. Qian, X. Shao, B. Hu, T. Schultz, and B. W. Schuller, “STAA-Net: A sparse and transferable adversarial attack for speech emotion recognition,” IEEE Transactions on Affective Computing, 2025
 
 * T. T. Nguyen, T. T. Huynh, Z. Ren, P. L. Nguyen, A. W.-C. Liew, H. Yin, and Q. V. H. Nguyen, “A survey of machine unlearning,” ACM Transactions on Intelligent Systems and Technology, vol. 16, no. 5, 2025
 
-* Z. Ren, K. Qian, T. Schultz, and B. W. Schuller, “An overview of the ICASSP special session on ai security and privacy in speech and audio processing,” in ACM Multimedia Asia workshop, (Tainan, Taiwan), 2023
+* Z. Ren, K. Qian, T. Schultz, and B. W. Schuller, “An overview of the ICASSP special session on AI security and privacy in speech and audio processing,” in ACM Multimedia Asia workshop, (Tainan, Taiwan), 2023
 
 * Z. Ren, J. Han, N. Cummins, and B. Schuller, “Enhancing transferability of black-box adversarial attacks via lifelong learning for speech emotion recognition models,” in Proc. INTERSPEECH, (Shanghai, China), pp. 496–500, 2020
 
 * Z. Ren, A. Baird, J. Han, Z. Zhang, and B. Schuller, “Generating and protecting against adversarial attacks for deep speech-based emotion recognition models,” in Proc. ICASSP, (Barcelona, Spain), pp. 7184–7188, 2020 [<a href="https://github.com/EIHW/Adversarial_Attacks_for_SER" target="_blank">code</a>]
 
 ## Emotion Recognition & Mental Healthcare from Speech
+<p align="center">
+  <img src="/images/ser.png" width="650">
+</p>
+
+Research on speech emotion recognition and mental healthcare (e.g., depression), especially focused on lightweight models.
+
 * Y. Chang, Z. Ren, Z. Zhao, T. T. Nguyen, K. Qian, T. Schultz, and B. W. Schuller, “Breaking resource barriers in speech emotion recognition via data distillation,” in Proc. INTERSPEECH, (Rotterdam, The Netherlands), pp. 141–145, 2025
 
 * Z. Ren, T. T. Nguyen, Y. Chang, and B. W. Schuller, “Fast yet effective speech emotion recognition with self-distillation,” in Proc. ICASSP, (Rhodes, Greece), 2023
@@ -30,8 +44,29 @@ Please see the full list of her publications <a href="https://zhaoren91.github.i
 
 * F. Ringeval, B. Schuller, M. Valstar, N. Cummins, R. Cowie, L. Tavabi, M. Schmitt, S. Alisamir, S. Amiriparian, E.-M. Messner, S. Song, S. Liu, Z. Zhao, A. Mallol-Ragolta, Z. Ren, M. Soleymani, and M. Pantic, “AVEC 2019 workshop and challenge: State-of-mind, detecting depression with AI, and cross-cultural affect recognition,” in Proc. AVEC, (Nice, France), pp. 3–12, 2019
 
+## Silent Speech Interfaces & Silent Paralinguitics
+<p align="center">
+  <img src="/images/silentpara.png" width="650">
+</p>
+
+Research on silent speech interfaces and silent paralignusitics for assistive communication systems based on biosignals.
+
+* Z. Ren, S. Pistrosch, B. Coşkun, K. Scheck, A. Batliner, B. W. Schuller, & T. Schultz, “An introduction to silent paralinguistics,” arXiv preprint arXiv:2508.18127, 2025 (Pre-print)
+
+* S. Pistrosch, K. Avramidis, Z. Ren, T. Feng, J. Lee, M. Gonzalez-Machorro, A. Batliner, T. Schultz, S. Narayanan, and B. W. Schuller, “Affect decoding in phonated and silent speech production from surface EMG,” arXiv preprint arXiv:2603.11715, 2026 (Pre-print)
+
+* K. Scheck, T. Dombeck, Z. Ren, P. Wu, M. Wand, and T. Schultz, “DiffMV-ETS: Diffusion-based multi-voice electromyography-to-speech conversion using speaker-independent speech training targets,” in Proc. INTERSPEECH, (Rotterdam, The Netherlands), pp. 5573–5577, 2025
+
+* Z. Ren, K. Scheck, Q. Hou, S. v. Gogh, M. Wand, and T. Schultz, “Diff-ETS: Learning a diffusion probabilistic model for electromyography-to-speech conversion,” in Proc. EMBC, (Orlando, FL), pp. 1–4, 2024
 
 ## Physiological Signal Analysis for Health
+<p align="center">
+  <img src="/images/physiological_signal.png" width="650">
+</p>
+
+Research on physiological signal analysis for non-invasive digital health, especially focusing on explainable AI.
+
+
 * Z. Ren, Y. Chang, T. T. Nguyen, Y. Tan, K. Qian, and B. W. Schuller, “A comprehensive survey on heart sound analysis in the deep learning era,” IEEE Computational Intelligence Magazine, vol. 19, no. 3, pp. 42–57, 2024
 
 * Z. Ren, T. T. N. Nguyen, M. M. Zahed, and W. Nejdl, “Self-explaining neural networks for respiratory sound classification with scale-free interpretability,” in Proc. IJCNN, (Gold Coast, Australia), 2023
@@ -50,7 +85,7 @@ Please see the full list of her publications <a href="https://zhaoren91.github.i
 
 * B. Schuller, S. Steidl, A. Batliner, P. Marschik, H. Baumeister, F. Dong, S. Hantke, F. Pokorny, E.-M. Rathner, K. Bartl-Pokorny, C. Einspieler, D. Zhang, A. Baird, S. Amiriparian, K. Qian, Z. Ren, M. Schmitt, P. Tzirakis, and S. Zafeiriou, “The INTERSPEECH 2018 computational paralinguistics challenge: Atypical & self-assessed affect, crying & heart beats,” in Proc. INTERSPEECH, (Hyderbad, India), pp. 122–126, 2018
 
-## Acoustic Scene & Audio Representation Learning
+## Acoustic Representation Learning
 
 * Z. Ren, Q. Kong, J. Han, M. Plumbley, and B. Schuller, “CAA-Net: Conditional atrous CNNs with attention for explainable device-robust acoustic scene classification,” IEEE Transactions on Multimedia, Nov. 2020s [<a href="https://github.com/EIHW/CAANet_DCASE_ASC" target="_blank">code</a>]
 
@@ -58,15 +93,6 @@ Please see the full list of her publications <a href="https://zhaoren91.github.i
 
 * Z. Ren, K. Qian, Z. Zhang, V. Pandit, A. Baird, and B. Schuller, “Deep scalogram representations for acoustic scene classification,” IEEE/CAA Journal of Automatica Sinica, vol. 5, pp. 662–669, May 2018
 
-
-## Silent Speech Interfaces and Silent Paralinguitics
-* Z. Ren, S. Pistrosch, B. Coşkun, K. Scheck, A. Batliner, B. W. Schuller, & T. Schultz, “An introduction to silent paralinguistics,” arXiv preprint arXiv:2508.18127, 2025 (pre-print)
-
-* S. Pistrosch, K. Avramidis, Z. Ren, T. Feng, J. Lee, M. Gonzalez-Machorro, A. Batliner, T. Schultz, S. Narayanan, and B. W. Schuller, “Affect decoding in phonated and silent speech production from surface EMG,” arXiv preprint arXiv:2603.11715, 2026 (pre-print)
-
-* K. Scheck, T. Dombeck, Z. Ren, P. Wu, M. Wand, and T. Schultz, “DiffMV-ETS: Diffusion-based multi-voice electromyography-to-speech conversion using speaker-independent speech training targets,” in Proc. INTERSPEECH, (Rotterdam, The Netherlands), pp. 5573–5577, 2025
-
-* Z. Ren, K. Scheck, Q. Hou, S. v. Gogh, M. Wand, and T. Schultz, “Diff-ETS: Learning a diffusion probabilistic model for electromyography-to-speech conversion,” in Proc. EMBC, (Orlando, FL), pp. 1–4, 2024
 
 ## Book Chapters & Editorials
 
