@@ -16,7 +16,7 @@ Please see the full list of her publications <a href="https://zhaoren91.github.i
   <img src="/images/privacy.png" width="650">
 </p>
 
-Research on adversarial robustness, machine unlearning, and trustworthy speech emotion recognition systems.
+**Research on adversarial robustness, machine unlearning, and trustworthy speech emotion recognition systems.**
 
 
 * Y. Chang, Z. Ren, Z. Zhang, X. Jing, K. Qian, X. Shao, B. Hu, T. Schultz, and B. W. Schuller, “STAA-Net: A sparse and transferable adversarial attack for speech emotion recognition,” IEEE Transactions on Affective Computing, 2025
@@ -34,7 +34,7 @@ Research on adversarial robustness, machine unlearning, and trustworthy speech e
   <img src="/images/ser.png" width="650">
 </p>
 
-Research on speech emotion recognition and mental healthcare (e.g., depression), especially focused on lightweight models.
+**Research on speech emotion recognition and mental healthcare (e.g., depression), especially focused on lightweight models.**
 
 * Y. Chang, Z. Ren, Z. Zhao, T. T. Nguyen, K. Qian, T. Schultz, and B. W. Schuller, “Breaking resource barriers in speech emotion recognition via data distillation,” in Proc. INTERSPEECH, (Rotterdam, The Netherlands), pp. 141–145, 2025
 
@@ -49,7 +49,7 @@ Research on speech emotion recognition and mental healthcare (e.g., depression),
   <img src="/images/silentpara.png" width="650">
 </p>
 
-Research on silent speech interfaces and silent paralignusitics for assistive communication systems based on biosignals.
+**Research on silent speech interfaces and silent paralignusitics for assistive communication systems based on biosignals.**
 
 * Z. Ren, S. Pistrosch, B. Coşkun, K. Scheck, A. Batliner, B. W. Schuller, & T. Schultz, “An introduction to silent paralinguistics,” arXiv preprint arXiv:2508.18127, 2025 (Pre-print)
 
@@ -64,7 +64,7 @@ Research on silent speech interfaces and silent paralignusitics for assistive co
   <img src="/images/physiological_signal.png" width="650">
 </p>
 
-Research on physiological signal analysis for non-invasive digital health, especially focusing on explainable AI.
+**Research on physiological signal analysis for non-invasive digital health, especially focusing on explainable AI.**
 
 
 * Z. Ren, Y. Chang, T. T. Nguyen, Y. Tan, K. Qian, and B. W. Schuller, “A comprehensive survey on heart sound analysis in the deep learning era,” IEEE Computational Intelligence Magazine, vol. 19, no. 3, pp. 42–57, 2024
