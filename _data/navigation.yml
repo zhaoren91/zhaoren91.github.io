@@ -17,12 +17,16 @@ main:
   - title: "Services"
     url: /service/
 
+  - title: "Awards & Recognition"
+    url: /award_recognition/  
+
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Projects"
     url: /project/
     
+
   # - title: "CV"
   #  url: /cv/
     
