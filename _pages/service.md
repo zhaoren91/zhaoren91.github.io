@@ -22,8 +22,9 @@ author_profile: true
 * Guest Editor for special issue of <a href="https://www.embs.org/jbhi/special-issues-page/trustworthy-and-collaborative-ai-for-personalised-healthcare-through-edge-of-things/" target="_blank">Trustworthy and Collaborative AI for Personalised Healthcare Through Edge-of-Things</a> on the IEEE Journal of Biomedical and Health Informatics.
 
 # Chairs
-* Session chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
-* Session chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
+* Publicity Chair: The 37th Australasian Database Conference, Brisbane, Australia & Hengqin Island, China, 2026
+* Session Chair: Sensors, Wearables & IoT, EMBC, Orlando, FL, 2024.
+* Session Chair: AI security and privacy in speech and audio processing, ICASSP, Rhodes, Greece, 2023.
 
 # Organisation
 * Organiser of <a href="https://ei-miga.github.io" target="_blank">EI-MiGA: The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge</a>, held at the IJCAI-ECAI, Bremen, Germany, 2026.
