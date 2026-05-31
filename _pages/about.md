@@ -13,7 +13,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 
 # Highlights
-* 05/2026: I am invited as Publicity Chair at the <a href="https://adc-conference.github.io/2026/" target="_blank">The Australasian Database Conference (ADC) 2026</a>.
+* 05/2026: I am invited as Publicity Chair at the <a href="https://adc-conference.github.io/2026/" target="_blank">Australasian Database Conference (ADC) 2026</a>.
 * 05/2026: Nominated and Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in IJCAI at Bremen, Germany (August 15–21, 2026). This honor recognizes highly promising researchers in the AI community.
 * 03/2026: **Best Presentation Award**, Free Rein · Global Youth AI Forum (CUHK-SZ). Selected from ~100 invited young scholars from top-tier global institutions for excellence in research communication.
 * 2026: **Multimodal Hate Speech Detection**. New research accepted at LREC 2026.
