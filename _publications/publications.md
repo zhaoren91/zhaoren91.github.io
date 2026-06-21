@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please see the full list of her publications <a href="https://zhaoren91.github.io/files/Publications_by_Zhao_Ren_202602.pdf" type="application/pdf">here</a>.
+Please see the full list of her publications <a href="https://zhaoren91.github.io/files/Publications_by_Zhao_Ren_202606.pdf" type="application/pdf">here</a>.
 
 
 # Selected Publications

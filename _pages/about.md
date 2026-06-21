@@ -9,10 +9,11 @@ redirect_from:
 
 **Dr.-Ing. Zhao Ren** is a *Senior Researcher* at the <a href="https://www.uni-bremen.de/csl" target="_blank">Cognitive Systems Lab</a>, <a href="https://www.uni-bremen.de" target="_blank">University of Bremen</a>, Germany. Before this, she received her doctoral degree from <a href="https://www.uni-augsburg.de/en/" target="_blank">University of Augsburg</a>, Germany, in 2022, and worked as a Research Associate in <a href="https://www.l3s.de/en" target="_blank">L3S Research Center</a>, <a href="https://www.uni-hannover.de/en/" target="_blank">Leibniz University Hannover</a>, Germany. 
 
-Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 70+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 30). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
+Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 80+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 31). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
 
 # Highlights
+* 06/2026: Two papers (1 long paper + 1 short paper) accepted at INTERSPEECH 2026.
 * 05/2026: I am invited as Publicity Chair at the <a href="https://adc-conference.github.io/2026/" target="_blank">Australasian Database Conference (ADC) 2026</a>.
 * 05/2026: Nominated and Selected for the **IJCAI 2026 Early Career Spotlight**! I will be giving an invited talk in IJCAI at Bremen, Germany (August 15–21, 2026). This honor recognizes highly promising researchers in the AI community.
 * 03/2026: **Best Presentation Award**, Free Rein · Global Youth AI Forum (CUHK-SZ). Selected from ~100 invited young scholars from top-tier global institutions for excellence in research communication.

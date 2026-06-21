@@ -15,6 +15,8 @@ author_profile: true
 
 # Invited Talks
 
+* "Human-Centred Trustworthy AI for Biosignal-based Digital Health", invited talk at The University of Tokyo, Japan, 06.2026
+
 * "Toward trustworthy AI in digital health: Sensing, understanding, and empowerment", invited talk at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany, 04.2026
 
 * "Trustworthy AI in human-centred computer audition", invited talk at University of Duisburg-Essen, Germany, 01.2026
