@@ -11,9 +11,9 @@ redirect_from:
 
 Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 80+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 31). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
+I will be joining Aalborg University, Denmark as a **Tenure-Track Assistant Professor** from September, 2026.
 
 # Highlights
-* 2026: I will be joining Aalborg University, Denmark as a **Tenure-Track Assistant Professor** from September, 2026. 
 * 07/2026: A paper accepted at MLSP 2026.
 * 06/2026: Two papers (1 long paper + 1 short paper) accepted at INTERSPEECH 2026.
 * 05/2026: I am invited as Publicity Chair at the <a href="https://adc-conference.github.io/2026/" target="_blank">Australasian Database Conference (ADC) 2026</a>.
