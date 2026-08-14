@@ -13,7 +13,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 
 # Highlights
-* 2026: I will be joining Aalborg University, Denmark as a Tenure-Track Assistant Professor from September, 2026. 
+* 2026: I will be joining Aalborg University, Denmark as a **Tenure-Track Assistant Professor** from September, 2026. 
 * 07/2026: A paper accepted at MLSP 2026.
 * 06/2026: Two papers (1 long paper + 1 short paper) accepted at INTERSPEECH 2026.
 * 05/2026: I am invited as Publicity Chair at the <a href="https://adc-conference.github.io/2026/" target="_blank">Australasian Database Conference (ADC) 2026</a>.
