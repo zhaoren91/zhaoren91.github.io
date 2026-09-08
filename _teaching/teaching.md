@@ -9,7 +9,7 @@ author_profile: true
 # Lectures and Tutorials
 
 ## University of Bremen
-* SS 2023-2025: Lecture: Fundamentals of Machine Learning (Bachelor)
+* SS 2023-2026: Lecture: Fundamentals of Machine Learning (Bachelor)
 
 ## Leibniz University Hannover
 * SS 2022: Lecture: Artificial Intelligence for Healthcare (Master)
