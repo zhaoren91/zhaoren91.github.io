@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Dr.-Ing. Zhao Ren** is a *Senior Researcher* at the <a href="https://www.uni-bremen.de/csl" target="_blank">Cognitive Systems Lab</a>, <a href="https://www.uni-bremen.de" target="_blank">University of Bremen</a>, Germany. Before this, she received her doctoral degree from <a href="https://www.uni-augsburg.de/en/" target="_blank">University of Augsburg</a>, Germany, in 2022, and worked as a Research Associate in <a href="https://www.l3s.de/en" target="_blank">L3S Research Center</a>, <a href="https://www.uni-hannover.de/en/" target="_blank">Leibniz University Hannover</a>, Germany. 
+**Dr.-Ing. Zhao Ren** is a *Tenure-Track Assistant Professor* at the <a href="https://www.es.aau.dk/research/research-sections/ai-and-sound" target="_blank">Research Section for AI and Sound</a>, Department of Electronic Systems, Aalborg University, Denmark. Before this, she received her doctoral degree from University of Augsburg, Germany, in 2022, and worked as a Research Associate in L3S Research Center, Leibniz University Hannover, and Cognitive Systems Lab in University of Bremen, Germany. 
 
 Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 80+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 31). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
-She will be joining Aalborg University, Denmark as a **Tenure-Track Assistant Professor** from September, 2026.
 
 # Highlights
 * 07/2026: A paper accepted at MLSP 2026.
