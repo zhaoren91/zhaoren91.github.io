@@ -9,7 +9,7 @@ redirect_from:
 
 **Dr.-Ing. Zhao Ren** is a *Tenure-Track Assistant Professor* at the <a href="https://www.es.aau.dk/research/research-sections/ai-and-sound" target="_blank">Research Section for AI and Sound</a>, Department of Electronic Systems, Aalborg University, Denmark. Before this, she received her doctoral degree from University of Augsburg, Germany, in 2022, and worked as a Research Associate in L3S Research Center, Leibniz University Hannover, and Cognitive Systems Lab in University of Bremen, Germany. 
 
-Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 80+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 31). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
+Her research interests mainly lie in affective computing, computational paralinguistics, silent paralinguistics, and digital health. She has (co-)authored 80+ publications in peer-reviewed book chapters, journals, and conference proceedings, which have received 3.5k+ citations (h-index 30). She serves as a Guest Editor in IEEE JBHI, Cyborg and Bionic Systems, and multiple Frontiers journals. She is an Associate Editor of Frontiers in Digital Health, and a Session Chair in ICASSP and EMBC. 
 
 
 # Highlights
