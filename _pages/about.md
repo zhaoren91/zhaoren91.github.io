@@ -26,9 +26,7 @@ Her research interests mainly lie in affective computing, computational paraling
 
 
 # Professional Activities (Ongoing)
-* Workshop: <a href="https://ei-miga.github.io" target="_blank">EI-MiGA: The First Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge</a>, IJCAI-ECAI, Bremen, Germany, 2026
-* Special Issue: <a href="https://www.frontiersin.org/research-topics/73731/advancing-personalized-healthcare-through-ai-and-computer-audition-technologies" target="_blank">Advancing Personalized Healthcare Through AI and Computer Audition Technologies</a>, Frontiers in Computer Science, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Digital Health, Frontiers in Psychiatry
-* Special Issue: <a href="https://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, Cyborg and Bionic Systems
+* Special Issue: <a href="https://spj.science.org/page/cbsystems/si/audio-inspired-methods-for-healthcare" target="_blank">Audio-Inspired Methods for Healthcare</a>, Cyborg and Bionic Systems (IF 2025: 20.9)
 
 
 # Research Topics
